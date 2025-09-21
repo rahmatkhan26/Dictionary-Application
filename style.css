@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #343541;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #ececf1;
+}
+.container {
+  background-color: #444654;
+  width: 90vmin;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  padding: 80px 50px;
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.5);
+}
+
+.search-box {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.search-box input {
+  width: 70%;
+  padding: 10px;
+  border: 1px solid #565869;
+  border-radius: 8px;
+  outline: none;
+  background-color: #40414f;
+  font-size: 16px;
+  color: #ececf1;
+  transition: border 0.3s ease;
+  /* border-bottom: 3px solid #420000; */
+}
+.search-box input:focus {
+  border: 1px solid #10a37f;
+}
+.search-box input::placeholder {
+  color: #9ca3af;
+}
+.search-box button {
+  width: 25%;
+  background: linear-gradient(135deg, #10a37f, #0d8b6c);
+  border: none;
+  outline: none;
+  color: white;
+  padding: 10px 20px;
+  margin-left: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+  transition: all 0.3s ease;
+}
+.search-box button:hover {
+  background: linear-gradient(135deg, #0d8b6c, #10a37f);
+  box-shadow: 0 4px 12px rgba(16, 163, 127, 0.4);
+  transform: translateY(-2px);
+}
+
+.result {
+  position: relative;
+}
+
+.result h3 {
+  font-size: 30px;
+  color: #10a37f;
+}
+.result h2 {
+  font-size: 30px;
+  color: #ef4444;
+}
+.result .word {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.result button {
+  background-color: transparent;
+  color: #ef4444;
+  border: none;
+  outline: none;
+  font-size: 18px;
+}
+
+.result button:hover {
+  background-color: white;
+  color: #420000;
+}
+.result .details {
+  display: flex;
+  gap: 10px;
+  color: #9ca3af;
+  margin: 5px 0 20px 0;
+  font-size: 16px;
+}
+
+.word-meaning {
+  color: #e5e7eb;
+}
+.word-example {
+  color: #94a3b8;
+  font-style: italic;
+  border-left: 5px solid #13a37f;
+  margin-top: 30px;
+  padding-left: 30px;
+}
+.error {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ef4444;
+}
