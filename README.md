@@ -35,6 +35,11 @@ Dictionary-Application/
 5. Listen to pronunciation and view meaning, examples, and phonetics.
 
 ## 7. Screenshots (Optional)
-    ```markdown
  <img width="1350" height="812" alt="image" src="https://github.com/user-attachments/assets/988e837f-b1ab-45aa-ad65-4012c9d101ab" />
+ 
+##  Future Improvements
+- Add support for multiple languages  
+- Dark/Light mode toggle  
+- Save searched words history  
+- Improve error messages with suggestions  
 
