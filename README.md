@@ -21,10 +21,10 @@ It fetches real-time word meanings, phonetics, and examples using the [Free Dict
 
 ##  Project Structure
 Dictionary-Application/
-│── index.html       # Main HTML file
-│── style.css        # Styling file
-│── script.js        # Functionality (API calls, events, sound)
-│── R.png            # Favicon/logo
+│── index.html       **Main HTML file** 
+│── style.css        **Styling file**
+│── script.js        **Functionality (API calls, events, sound)**
+│── R.png            **Favicon/logo**
 
 ##  How to Use
 1. Clone the repository:
