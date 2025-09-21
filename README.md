@@ -30,6 +30,11 @@ Dictionary-Application/
 1. Clone the repository:
    ```bash
    git clone https://github.com/rahmatkhan26/Dictionary-Application.git
-2. Open the folder and launch index.html in any browser.
-3. Type a word in the search box and click Search.
-4. Listen to pronunciation and view meaning, examples, and phonetics.
+3. Open the folder and launch index.html in any browser.
+4. Type a word in the search box and click Search.
+5. Listen to pronunciation and view meaning, examples, and phonetics.
+
+## 7. Screenshots (Optional)
+  ```markdown
+ <img width="1350" height="812" alt="image" src="https://github.com/user-attachments/assets/988e837f-b1ab-45aa-ad65-4012c9d101ab" />
+
