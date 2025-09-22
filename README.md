@@ -36,7 +36,7 @@ Dictionary-Application/
 4. Type a word in the search box and click Search.
 5. Listen to pronunciation and view meaning, examples, and phonetics.
 
-## 7. Screenshots
+## Screenshots
  <img width="1350" height="812" alt="image" src="https://github.com/user-attachments/assets/988e837f-b1ab-45aa-ad65-4012c9d101ab" />
  
 ##  Future Improvements
