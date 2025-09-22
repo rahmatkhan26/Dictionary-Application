@@ -3,7 +3,9 @@ https://github.com/user-attachments/assets/fcecaf11-9472-4855-95ea-b4b66c2eaccc
 # Dictionary-Application
 A simple and interactive dictionary application built using **HTML**, **CSS**, and **JavaScript**.  
 It fetches real-time word meanings, phonetics, and examples using the [Free Dictionary API](https://dictionaryapi.dev/).
+
 ---
+
 ##  Features
 - Search any English word and get its:
   - Meaning  
