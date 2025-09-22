@@ -33,7 +33,9 @@ Dictionary-Application/
 │── style.css        **Styling file**
 │── script.js        **Functionality (API calls, events, sound)**
 │── R.png            **Favicon/logo**
+
 ---
+
 ##  How to Use
 1. Clone the repository:
    ```bash
@@ -41,18 +43,26 @@ Dictionary-Application/
 3. Open the folder and launch index.html in any browser.
 4. Type a word in the search box and click Search.
 5. Listen to pronunciation and view meaning, examples, and phonetics.
+
 ---
+
 ## Screenshots
  <img width="1350" height="812" alt="image" src="https://github.com/user-attachments/assets/988e837f-b1ab-45aa-ad65-4012c9d101ab" />
- ---
+
+---
+
 ##  Future Improvements
 - Add support for multiple languages  
 - Dark/Light mode toggle  
 - Save searched words history  
 - Improve error messages with suggestions  
+
 ---
+
 ##  License
 This project is licensed under the **MIT License** – feel free to use and modify.  
+
 ---
+
 ##  Author
 Developed by **[Rahmat Khan]**
